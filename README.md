@@ -1,9 +1,11 @@
 # Smart Code Test
 
-## Explanantion
-This app is built to showcase the skillset capabillities in building a react app which consumes an API : News API using NextJS Framework in a test environment.
+## Explanations
+
+This app is built to showcase the skillset capabilities in building a react app which consumes an API : News API using NextJS Framework in a test environment.
 
 ### Instructions for getting a view on the build
+
 1 - Clone the repo git on your computer using the link and command `git clone https://github.com/mouzong/smarcodetest.git`
 
 2 - connect to the directory smarcodetest-main created from the clone and install the dependencies `yarn install` or `npm install`
@@ -12,4 +14,4 @@ This app is built to showcase the skillset capabillities in building a react app
 
 4 - launch the development server `yarn run dev` or `npm run dev`
 
-5 - open your browser and head on to http://localhost:3000 to view the release.
+5 - open your browser and head on to <http://localhost:3000> to view the release.
