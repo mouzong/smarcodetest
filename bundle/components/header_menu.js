@@ -13,9 +13,13 @@ const HeaderMenu = () => {
         </ul>
       </div>
       <div className="flex items-center py-4 border-b-2 border-gray-100 pt-5 font-light">
-        <input type="text" className="font-light" placeholder="Search..." />
+        <input
+          type="text"
+          className="font-light pr-2"
+          placeholder="Search..."
+        />
         <svg
-          className="w-6 h-6 font-light"
+          className="w-6 h-6 font-light pr-2 text-gray-400"
           fill="none"
           stroke="currentColor"
           viewBox="0 0 24 24"
