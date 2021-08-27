@@ -15,3 +15,7 @@ This app is built to showcase the skillset capabilities in building a react app 
 4 - launch the development server `yarn run dev` or `npm run dev`
 
 5 - open your browser and head on to <http://localhost:3000> to view the release.
+
+### Code logic and deployment comprehension
+
+- in order to keep track of all what was done bit by bit i segmented each new section into sepreate branch. and at each new branch creation i merge the recent commits with the main branch
